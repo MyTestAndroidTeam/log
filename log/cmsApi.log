@@ -1,0 +1,6 @@
+[10.201.4.254] [2024-02-28T11:03:29Z - ] Security warning : Wrong username or password; next login in 3 seconds
+	/var/webservices/platform-api.chdekker.nl/dekker-api/web/api/v1/cms/cls/model/clsSessions.php:184
+	/api/v1/cms/index.php?action=Login:401
+[10.201.4.254] [2024-02-28T11:04:03Z - ] Security warning : Wrong username or password
+	/var/webservices/platform-api.chdekker.nl/dekker-api/web/api/v1/cms/cls/model/clsSessions.php:143
+	/api/v1/cms/index.php?action=Login:401
